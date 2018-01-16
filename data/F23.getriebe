@@ -1,0 +1,31 @@
+# Code
+#Ziffer Radsatz: 
+# • 0 = SR (Short ratio) 
+# • 1 = WR (Wide ratio) 
+# • 4 = SRT (Short ratio Turbo)
+
+# Motor Getriebecode Alphacode Achsantrieb (RPO-Code)
+
+# X25XE F23SR SK 3,842 (FR6)
+# WR 
+3,577
+1,887
+1,192
+0,848
+0,686
+
+# SR 
+3,577
+2,022
+1,348
+0,977
+0,809
+
+# SRT
+
+3,577
+2,022
+1,348
+0,977
+0,790
+
